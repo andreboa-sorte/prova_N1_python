@@ -1,5 +1,7 @@
 '''
-
+Darth Vader achou que seu exército de stormtrooper estava prendendo poucos rebeldes, então lhe contratou para desenvolver
+um programa que leia um conjunto indeterminado de números de refém preso por mês. Ao final da listagem informa o menor
+ e maior número de capturados, a média e o valor mais próximo a média
 '''
 lista_refem=[]
 refem_temp=0
